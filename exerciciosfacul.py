@@ -1,25 +1,25 @@
- #exercicio 3 (1)
+ #exercicio 3 (1)_______________
 #lado = float(input("Coloque o valor do lado do quadrado: "))
 #perimetro = lado * 4
 #print ("O seu perimetro é: ", perimetro)
  
- #exercicio 4 (1)
+ #exercicio 4 (1)_______________
 #numero = float(input("Me de um númro: "))
 #total = numero * 2
 #print ("Esse é o dobro do seu número:",total)
 
- #exercicio 5 (1)
+ #exercicio 5 (1)_______________
 #base = float(input("Me de a base do retangulo: "))
 #altura = float(input("Me de a altura do retangulo: "))
 #total = base * altura
 #print ("Essa é sua area:",total)
 
- #exercicio 6 (1)
+ #exercicio 6 (1)________________
 #C = float(input("Coloque a temperatura em Celsius: "))
 #F = (C * 1.8) + 32
 #print ("Em Fahrenheit:", F)
 
- #exercicio 7 (1)
+ #exercicio 7 (1)________________
 #h = int(input("Quantas horas voce trabalhou: "))
 #s = float(input("Quanto voce recebe por hora: "))
 #total = s * h
@@ -30,7 +30,7 @@
 #dollar = r / 5.13
 #print ("Sua quantidade de dollars é:",dollar)
 
- #exercicio 1 (2)_________________
+ #exercicio 1 (2)________________
 #n1 = int(input("Quero um número inteiro: "))
 #n2 = int(input("Quero outro número inteiro: "))
 #soma = (n1+n2)
@@ -65,7 +65,7 @@
 #else:
 #    print ("pode continuar dirigindo")
 
- #exercicio 5 (2)___________________
+ #exercicio 5 (2)_________________
 #nota = float(input("Qual foi a sua nota? "))
 #frequencia = int(input("Qual sua frequencia em %? "))
 #if nota >= 6 and frequencia >= 75:
@@ -81,7 +81,7 @@
 #else:
 #  print ("Não pode votar")
 
-# exercicio 2 (3)___________________
+# exercicio 2 (3)__________________
 #numero = float(input("Digite um numero: "))
 
 #if numero >= 0:
@@ -135,7 +135,7 @@
 #else:
 #    print ("Ambos são iguais") 
 
-#exercicio 6 (3)___________________________
+#exercicio 6 (3)____________________
 #usuario = str(input("Nome de usuário: "))
 #senha = int(input("Digite a senha: "))
 #if usuario == "unisa" and senha == 1234:
@@ -149,6 +149,7 @@
 #else:
 #    print ("usuario ou senha invalidos")
 
+#exercicio 7 (3)___________________
 #media = float(input("Qual a sua média? "))
 #frequencia = int(input("Qual a sua frequencia em %? "))
 #if media >= 7:
