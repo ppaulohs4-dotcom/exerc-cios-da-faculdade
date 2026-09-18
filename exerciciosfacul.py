@@ -25,12 +25,12 @@
 #total = s * h
 #print ("Seu salario final será:",total)
  
- #exercicio 8 (1)
+ #exercicio 8 (1)________________
 #r = float(input("Tem quantos reais: "))
 #dollar = r / 5.13
 #print ("Sua quantidade de dollars é:",dollar)
 
- #exercicio 1 (2)
+ #exercicio 1 (2)_________________
 #n1 = int(input("Quero um número inteiro: "))
 #n2 = int(input("Quero outro número inteiro: "))
 #soma = (n1+n2)
@@ -39,7 +39,7 @@
 #else:
 #    print ("false")
 
- #exercicio 2 (2)
+ #exercicio 2 (2)_________________
 #pesoc = float(input("Qual o peso da caixa: "))
 #pesoo = float(input("Qual o peso do objeto: "))
 #soma = (pesoc+pesoo)
@@ -48,7 +48,7 @@
 #else:
 #    print ("false")
 
- #exercicio 3 (2)
+ #exercicio 3 (2)________________
 #remedio = (100)
 #vendido = int(input("Quantas unidades de remedio foram vendidos? "))
 #estoque = remedio - vendido
@@ -57,7 +57,7 @@
 #else:
 #    print ("muito ruim, melhore")
 
- #exercicio 4 (2)
+ #exercicio 4 (2)_________________
 #limite = 80
 #velocidade = float(input("Qual a velocidade do carro? Em km/h: ")) 
 #if velocidade > limite:
@@ -65,7 +65,7 @@
 #else:
 #    print ("pode continuar dirigindo")
 
- #exercicio 5 (2)
+ #exercicio 5 (2)___________________
 #nota = float(input("Qual foi a sua nota? "))
 #frequencia = int(input("Qual sua frequencia em %? "))
 #if nota >= 6 and frequencia >= 75:
@@ -73,7 +73,7 @@
 #else:
 #    print ("Aluno reprovado")
 
-#exercicio 1 (3)
+#exercicio 1 (3)___________________
 #idade = int(input("Digite sua idade: "))
 
 #if idade >= 16:
@@ -81,7 +81,7 @@
 #else:
 #  print ("Não pode votar")
 
-# exercicio 2 (3)
+# exercicio 2 (3)___________________
 #numero = float(input("Digite um numero: "))
 
 #if numero >= 0:
@@ -89,7 +89,7 @@
 #else:
 #  print ("Seu número é negativo")
 
-#exercício 3 (3)
+#exercício 3 (3)____________________
 #idade = int(input("Digite sua idade: "))
 
 #if idade >= 18:
@@ -104,7 +104,7 @@
 #else:
 #   print("Não pode dirigir")
 
-# exercício 4 (3)
+# exercício 4 (3)____________________
 #numero = int(input("Escreva um numero inteiro: "))
 
 #if numero >= 1:
@@ -119,7 +119,7 @@
 #   else:
 #      print("Zero nao é positivo e nem negativo")
 
-#exercicio 5 (3)
+#exercicio 5 (3)_______________________
 #numeroint = int(input("Me de um numero inteiro: "))
 #if numeroint % 2 == 0:
 #    print ("Seu numero é par")
@@ -135,7 +135,7 @@
 #else:
 #    print ("Ambos são iguais") 
 
-#exercicio 6 (3)
+#exercicio 6 (3)___________________________
 #usuario = str(input("Nome de usuário: "))
 #senha = int(input("Digite a senha: "))
 #if usuario == "unisa" and senha == 1234:
